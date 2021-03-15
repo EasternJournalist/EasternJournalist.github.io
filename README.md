@@ -18,8 +18,8 @@ Rui-Cheng Wang
 
 ## Education
 
-* *Fall 2018 - Summer 2019*. School of Computer Science and Technology | USTC.    
-* *Fall 2019 - Present*. School of Data Science | USTC
+* *Fall 2018 - Summer 2019*. School of Computer Science and Technology, USTC.    
+* *Fall 2019 - Present*. School of Data Science, USTC
 
 ## Research Interests
 
