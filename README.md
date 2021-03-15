@@ -12,7 +12,7 @@ Rui-Cheng Wang
 
 **Github:** [@EasternJournalist](https://github.com/EasternJournalist/)
 
-**CV (EN.):** [CV_2021.pdf](https://github.com/EasternJournalist/EasternJournalist.github.io/blob/master/files/cv/CV_2021.pdf)
+**CV (EN.):** [CV_2021.pdf](https://github.com/EasternJournalist/EasternJournalist.github.io/raw/master/files/cv/CV_2021.pdf)
 
 
 
