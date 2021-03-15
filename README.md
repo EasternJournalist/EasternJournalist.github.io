@@ -1,41 +1,40 @@
-# Wang Ruicheng
+## About Me
 
-I can currently 
+Rui-Cheng Wang
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Major:** Data Science
+
+**School:** University of Science and Technology of China (USTC)
+
+**Address:** Hefei, Anhui
+
+**Email:** [wangrc_2018cs@mail.ustc.edu.cn](mailto: wangrc2018cs@mail.ustc.edu.cn)
+
+**Github:** [@EasternJournalist](https://github.com/EasternJournalist/)
+
+**CV (EN.):** [CV_2021.pdf](https://github.com/EasternJournalist/EasternJournalist.github.io/blob/master/files/cv/CV_2021.pdf)
+
+
+
+## Education
+
+* *Fall 2018 - Summer 2019*. School of Computer Science and Technology | USTC.    
+* *Fall 2019 - Present*. School of Data Science | USTC
+
+## Research Interests
+
+* Computer Graphics - real-time rendering, differentiable rendering, geometric deep learning.
+
+
+
+# Sorry! My home page is still in progress. 
+
+
 
 ## Projects
 
+
+
 ## Blogs
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EasternJournalist/EasternJournalist.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
