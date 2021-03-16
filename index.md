@@ -1,4 +1,20 @@
-## About Me
+## 关于我 About Me
+
+王瑞程
+
+**主修专业：**数据科学
+
+**学校：**中国科学技术大学 (USTC)
+
+**地址：**安徽，合肥
+
+**邮箱：**wangrc_2018cs@mail.ustc.edu.cn
+
+**Github:** [@EasternJournalist](https://github.com/EasternJournalist/)
+
+**简历(英语)：**[CV_2021.pdf](https://github.com/EasternJournalist/EasternJournalist.github.io/raw/master/files/cv/CV_2021.pdf)
+
+
 
 Rui-Cheng Wang
 
@@ -16,7 +32,12 @@ Rui-Cheng Wang
 
 
 
-## Education
+## 教育经历 Education
+
+* 2018年秋 - 2019年夏，计算机科学与技术学院，USTC
+* 2019年秋 - 现在，大数据学院, USTC
+
+
 
 * *Fall 2018 - Summer 2019*. School of Computer Science and Technology, USTC
 * *Fall 2019 - Present*. School of Data Science, USTC
@@ -27,14 +48,22 @@ Rui-Cheng Wang
 
 
 
-# Sorry! My home page is still in progress. 
+# Sorry! My homepage is still in progress.
+
+# 抱歉！主页施工中。 
 
 
 
 ## Projects
 
+Please visit my [Github](https://github.com/EasternJournalist/) for my projects.
 
 
-## Blogs
+
+## Blogs & Notes
 
 
+
+* [（知乎）机器学习基础：XGBoost。(Zhihu) Machine Learning: XGBoost. (ZH)](https://zhuanlan.zhihu.com/p/357453896)
+
+* 
