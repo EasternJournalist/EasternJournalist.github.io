@@ -23,7 +23,7 @@ Rui-Cheng Wang
 
 ## Research Interests
 
-* Computer Graphics - real-time rendering, differentiable rendering, geometric deep learning.
+* My future research interests will include real-time rendering, differentiable rendering and geometric deep learning. I am also interested in differentiable simulation and robotics.
 
 
 
