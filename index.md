@@ -64,9 +64,9 @@ Please visit my [Github](https://github.com/EasternJournalist/) for my projects.
 
 ## Blogs & Notes
 
+* [[知乎] 机器学习基础：XGBoost. (Zhihu) Machine Learning: XGBoost. (ZH)](https://zhuanlan.zhihu.com/p/357453896)
+* [[知乎] LDA-隐狄利克雷主题模型. (Zhihu) Latent Dirichlet Allocation. (ZH)](https://zhuanlan.zhihu.com/p/362487029)
+* [几何深度学习调研 PPT 笔记 . A survey on geometric deep learning PPT Notes.(EN) ](https://github.com/EasternJournalist/EasternJournalist.github.io/blob/master/files/notes/A%20Survey%20on%20Geometry%20Deep%20Learning.pdf)
 
-
-* [[知乎] 机器学习基础（中文）：XGBoost. (Zhihu) Machine Learning: XGBoost. (ZH)](https://zhuanlan.zhihu.com/p/357453896)
-
-* [几何深度学习调研 PPT 笔记 (英语). A survey on geometric deep learning PPT Notes.(EN) ](https://github.com/EasternJournalist/EasternJournalist.github.io/blob/master/files/notes/A%20Survey%20on%20Geometry%20Deep%20Learning.pdf)
+* [[知乎]黎曼流形与黎曼几何初步-笔记. (Zhihu) Reimannian manifold and geometry notes. (ZH)](https://zhuanlan.zhihu.com/p/362480972)
 
