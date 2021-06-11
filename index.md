@@ -69,3 +69,5 @@ Please visit my [Github](https://github.com/EasternJournalist/) for my projects.
 
 * [[知乎]黎曼流形与黎曼几何初步-笔记. (Zhihu) Reimannian manifold and geometry notes. (ZH)](https://zhuanlan.zhihu.com/p/362480972)
 
+* [[知乎] BERT 文本情感分类实验. (Zhihu) Text sentiment classification with BERT (ZH)]([(NLP) BERT 文本情感分类实验 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/379968773))
+
